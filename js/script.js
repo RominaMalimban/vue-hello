@@ -5,7 +5,9 @@ createApp({
     data() {
       return {
         title : "Hello world!",
-        myClass : "changeColor"
+        myClass : "changeColor",
+        image : "img/boolean_img.jpg",
+        classImg : "sizeImg"
       }
     }
   }).mount('#app');
